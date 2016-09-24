@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wearable</string>
+    <string name="my_analog_name">My Analog</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="date">Date</string>
+</resources>
