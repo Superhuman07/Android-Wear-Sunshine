@@ -1,7 +1,7 @@
 Advanced Android Sample App
 ===================================
 
-![alt tag](https://github.com/Superhuman07/Android-Wear-Sunshine/blob/master/wearable/src/main/res/drawable-nodpi/preview_analog.png)
+<center>![alt tag](https://github.com/Superhuman07/Android-Wear-Sunshine/blob/master/wearable/src/main/res/drawable-nodpi/preview_analog.png)</center>
 <br>
 Synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
 
